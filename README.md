@@ -2,7 +2,7 @@
 
 This project demonstrates how to implement form validation in a React application using `Formik` for form management, `Yup` for validation schema, and `Tailwind CSS` for responsive styling. The form enables user registration with fields such as name, email, password, and confirm password, displaying a success message and user details upon successful submission.
 
-## [Live Link](https://form-validation-wheat-theta.vercel.app/)
+## [Live Link](https://react-formic.vercel.app/)
 
 ## Key Features
 
